@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-TERRA is an autonomous rescue robot built for post-earthquake search operations. It streams live video from an ESP32-CAM to a laptop, where a fine-tuned YOLOv8n model detects humans in real time — even in near-darkness and under rubble — and sends directional motor commands to navigate toward survivors.
+CAMRO is an autonomous rescue robot built for post-earthquake search operations. It streams live video from an ESP32-CAM to a laptop, where a fine-tuned YOLOv8n model detects humans in real time — even in near-darkness and under rubble — and sends directional motor commands to navigate toward survivors.
 
 ---
 
