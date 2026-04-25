@@ -1,4 +1,4 @@
-﻿# 🤖 CAMRO — Tactical Earthquake Rescue Robot with AI
+﻿# 🤖 CAMRO — AI Powered Victim Detection Rescue Robot
 
 > A tank-treaded autonomous disaster robot designed to locate earthquake survivors in rubble using real-time YOLOv8 human detection.
 
